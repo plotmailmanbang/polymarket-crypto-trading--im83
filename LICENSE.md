@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Module | trade-sniping + gas-optimization is the best Polymarket module, featuring trade-sniping and gas-optimization. Smart, fast, and optimized for trading
 
 
 
